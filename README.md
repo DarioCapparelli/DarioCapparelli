@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarioCapparelli
-- 👀 I’m interested in software development and crypto
-- 🌱 I’m currently learning web develpment with Java, CSS and HTML
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning web develpment with javascript, CSS and HTML
 - 💞️ I’m looking to collaborate on any project where i can improve my skils
 - 📫 How to reach me ...
 
